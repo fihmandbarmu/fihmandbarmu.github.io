@@ -10,6 +10,9 @@ This repository contains my first public portfolio page for the EvaeXtra Tech Me
 - Responsive design basics
 - Accessibility awareness
 - Deployment to a public URL
+  >Hello New
+  >I am new here
+  >what about you?
 
 ## How I built it
 
